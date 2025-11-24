@@ -1,4 +1,4 @@
-Hotfix applied on mai
+Hotfix applied on main
 
 
 ![Phase0 Git Config](Slike/screenshot 1.PNG)
