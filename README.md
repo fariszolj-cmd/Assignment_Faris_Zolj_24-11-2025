@@ -1,18 +1,19 @@
 Hotfix applied on main
 
 
-![Phase0 Git Config](Slike/screenshot 1.PNG)
 
-![Phase1 Init](Slike/screenshot 2.PNG)
+![Phase0 Git Config](Slike/screenshot%201.PNG)
 
-![Phase1 Commit](Slike/screenshot 3.PNG)
+![Phase1 Init](Slike/screenshot%202.PNG)
 
-![Phase2 Remote](Slike/screenshot 4.PNG)
+![Phase1 Commit](Slike/screenshot%203.PNG)
 
-![Phase3 FeatureA](Slike/screenshot 5.PNG)
+![Phase2 Remote](Slike/screenshot%204.PNG)
 
-![Phase3 Hotfix](Slike/screenshot 6.PNG)
+![Phase3 FeatureA](Slike/screenshot%205.PNG)
 
-![Phase4 Rebase](Slike/screenshot 7.PNG)
+![Phase3 Hotfix](Slike/screenshot%206.PNG)
 
-![Phase5 Merge](Slike/screenshot 8.PNG)
+![Phase4 Rebase](Slike/screenshot%207.PNG)
+
+![Phase5 Merge](Slike/screenshot%208.PNG)
